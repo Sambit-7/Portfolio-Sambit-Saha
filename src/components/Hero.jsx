@@ -157,7 +157,7 @@ export default function Hero() {
             </a>
 
             <a
-              href="/resume.pdf"
+              href="https://sambit-saha-resume.tiiny.site"
               target="_blank"
               rel="noreferrer"
               className="px-5 sm:px-6 py-3 rounded-xl bg-white/10 hover:bg-white/20 transition"
